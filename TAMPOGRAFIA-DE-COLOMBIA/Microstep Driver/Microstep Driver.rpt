@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : 
+Recibiendo I.D. de producto de sistema: 
+Nombre de archivo                    : Microstep Driver
+Enviando sistema               : Autodesk Inventor 2017
+Versión de preprocesador         : unknown
+Fecha de creación del archivo           : 20170612.120952
+Fecha de creación del modelo          : 20170612.070056
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : sergo
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               3
+  Número de dígitos significativos más alto:                     14
+  Número de dígitos significativos promedio:                5.14401
+  Distancia máxima hasta el origen:                          83.5667
+  Distancia mínima hasta el origen:                          9.85122
+  Número de dígitos significativos efectivo:              13.8971
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+126  Rational B-spline curve                        726       726
+128  Rational B-spline surface                      267       267
+186  Manifold Solid B-rep Object                      1         1
+314  Color definition                                 5         5
+406  Property                                         1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                    302       302
+510  Face entity                                    267       267
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: lunes, julio 24, 2017 16:32:05
+Hora de finalización: lunes, julio 24, 2017 16:32:20
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 15 secs

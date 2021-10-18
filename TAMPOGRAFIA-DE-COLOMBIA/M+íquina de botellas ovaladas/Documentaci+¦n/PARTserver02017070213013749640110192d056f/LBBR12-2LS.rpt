@@ -1,0 +1,71 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : Noname
+Recibiendo I.D. de producto de sistema: Noname
+Nombre de archivo                    : LBBR12-2LS.igs
+Enviando sistema               : By Siemens PLM Incorporated
+Versión de preprocesador         : XPlus GENERIC/IGES 17.0.49
+Fecha de creación del archivo           : 20170615.115915
+Fecha de creación del modelo          : 20170615.115915
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : Noname
+Organización                 : Noname
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+Advertencia: DE#    71, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+Advertencia: DE#   143, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+Advertencia: DE#   215, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+Advertencia: DE#  1283, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               1
+  Número de dígitos significativos más alto:                      4
+  Número de dígitos significativos promedio:                2.14286
+  Distancia máxima hasta el origen:                          1002.07
+  Distancia mínima hasta el origen:                                0
+  Número de dígitos significativos efectivo:                    4
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                             68        68
+102  Composite curve                                 94        94
+110  Line                                           142       142
+120  Surface of revolution                           11        11
+122  Tabulated cylinder                              26        26
+124  Transformation matrix                           70        70
+126  Rational B-spline curve                        178       178
+142  Curve on a parametric surface                   47        47
+144  Trimmed parametric surface                      37        37
+308  Subfigure definition                             3         3
+408  Singular subfigure instance                      4         4
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas2
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: domingo, julio 02, 2017 06:02:24
+Hora de finalización: domingo, julio 02, 2017 06:02:29
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 05 secs

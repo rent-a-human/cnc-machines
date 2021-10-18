@@ -1,0 +1,69 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : 
+Recibiendo I.D. de producto de sistema: 
+Nombre de archivo                    : NX3224T024_011_Ass
+Enviando sistema               : Autodesk Inventor 2017
+Versión de preprocesador         : unknown
+Fecha de creación del archivo           : 20170724.184004
+Fecha de creación del modelo          : 20160828.113545
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : jwrjc
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:              14
+  Número de dígitos significativos más alto:                     14
+  Número de dígitos significativos promedio:                13.9311
+  Distancia máxima hasta el origen:                          60.9219
+  Distancia mínima hasta el origen:                          1.50115
+  Número de dígitos significativos efectivo:              13.9786
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+124  Transformation matrix                           30        30
+126  Rational B-spline curve                       5125      5125
+128  Rational B-spline surface                     2034      2034
+186  Manifold Solid B-rep Object                    103       103
+308  Subfigure definition                            13        13
+314  Color definition                                21        21
+406  Property                                        38        38
+408  Singular subfigure instance                     30        30
+502  Vertex list                                    103       103
+504  Edge entity                                    103       103
+508  Loop entity                                   2091      2091
+510  Face entity                                   2034      2034
+514  Shell entity                                   103       103
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas101
+Operaciones de superficie8
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: lunes, julio 24, 2017 18:43:16
+Hora de finalización: lunes, julio 24, 2017 18:45:01
+Tiempo de procesamiento: 0 days, 00 hours, 01 mins, 45 secs

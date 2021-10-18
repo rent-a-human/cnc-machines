@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"MHY2-25D";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"SUPPLIER";"SMC Pneumatics";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7007332";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"180 deg Angular Style Gripper 25mm";"";
+"TraceParts.InstanceId";"10-08022011-1033035AL8E2ZA4X001L3R2SJLNMX3N";"";
+"TraceParts.PartTitle";"180 deg Angular Style Gripper 25mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"10/2/2011 13:57:57";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-08022011-103303";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_428252/PSS_428450/PSF_428462/10-08022011-103303";"";

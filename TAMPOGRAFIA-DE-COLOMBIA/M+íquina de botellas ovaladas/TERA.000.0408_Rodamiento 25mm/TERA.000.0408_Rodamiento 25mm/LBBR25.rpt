@@ -1,0 +1,71 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : Noname
+Recibiendo I.D. de producto de sistema: Noname
+Nombre de archivo                    : LBBR25.igs
+Enviando sistema               : By Siemens PLM Incorporated
+Versión de preprocesador         : XPlus GENERIC/IGES 17.0.49
+Fecha de creación del archivo           : 20170704.214834
+Fecha de creación del modelo          : 20170704.214834
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : Noname
+Organización                 : Noname
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+Advertencia: DE#    71, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+Advertencia: DE#   143, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+Advertencia: DE#   215, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+Advertencia: DE#  1643, TYPE   144: El error se ha reparado utilizando curvas de recortar 3D.
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               1
+  Número de dígitos significativos más alto:                      5
+  Número de dígitos significativos promedio:                2.87755
+  Distancia máxima hasta el origen:                          1003.25
+  Distancia mínima hasta el origen:                                0
+  Número de dígitos significativos efectivo:                    5
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                             84        84
+102  Composite curve                                118       118
+110  Line                                           186       186
+120  Surface of revolution                           13        13
+122  Tabulated cylinder                              34        34
+124  Transformation matrix                           86        86
+126  Rational B-spline curve                        226       226
+142  Curve on a parametric surface                   59        59
+144  Trimmed parametric surface                      47        47
+308  Subfigure definition                             3         3
+408  Singular subfigure instance                      4         4
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas2
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: martes, julio 04, 2017 14:57:54
+Hora de finalización: martes, julio 04, 2017 14:57:58
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 04 secs

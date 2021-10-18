@@ -1,0 +1,14 @@
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
+C:\Users\Jorge\Documents\00TAMPOGRAFIA\viga i 3m-Análisis estático 1
